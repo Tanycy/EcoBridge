@@ -346,8 +346,3 @@ Bachelor of Information Technology (Hons)
 
 Universiti Teknologi PETRONAS
 
----
-
-# 📜 License
-
-This project is developed for academic purposes as part of a Final Year Project.
